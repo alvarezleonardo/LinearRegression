@@ -232,7 +232,7 @@ El proyecto incluye visualización del árbol de decisión, mostrando:
 
 ## Autor
 
-Digital House Data Science - Ejercicio 1
+Leo
 
 ## Fecha
 
